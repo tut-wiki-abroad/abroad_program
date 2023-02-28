@@ -1,7 +1,9 @@
 # Table of contents
 
-* [Page 1](README.md)
+## ☀ IMLEX
 
-## ☀ ilex
+* [Page 2](README.md)
 
-* [Page 2](ilex/page-2.md)
+## 🇫🇮 DDP
+
+* [Page 1](ddp/page-1.md)
