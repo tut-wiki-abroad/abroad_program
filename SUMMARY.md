@@ -21,6 +21,7 @@
   * [🎅 クリスマス](ddp/ibento/kurisumasu.md)
   * [🛷 そり](ddp/ibento/sori.md)
 * [🕴 就活](ddp/jiu-huo.md)
+* [💰 お金](ddp/o.md)
 
 ## 🙂 その他
 
