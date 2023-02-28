@@ -20,8 +20,12 @@
   * [🎃 ハロウィン](ddp/ibento/harowin.md)
   * [🎅 クリスマス](ddp/ibento/kurisumasu.md)
   * [🛷 そり](ddp/ibento/sori.md)
-* [🕴 就活](ddp/jiu-huo.md)
-* [💰 お金](ddp/o.md)
+* [🕴 就活](ddp/jiu-huo/README.md)
+  * [👩💼 サービス](ddp/jiu-huo/sbisu.md)
+  * [👫 コミュニティ](ddp/jiu-huo/komyuniti.md)
+* [💰 お金](ddp/o/README.md)
+  * [🥘 食費](ddp/o/shi-fei.md)
+  * [📺 生活費](ddp/o/sheng-huo-fei.md)
 
 ## 🙂 その他
 
