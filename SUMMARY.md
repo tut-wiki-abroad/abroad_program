@@ -20,4 +20,9 @@
   * [🎃 ハロウィン](ddp/ibento/harowin.md)
   * [🎅 クリスマス](ddp/ibento/kurisumasu.md)
   * [🛷 そり](ddp/ibento/sori.md)
-* [Page 1](ddp/page-1.md)
+* [🕴 就活](ddp/jiu-huo.md)
+
+## 🙂 その他
+
+* [❗ 目的・ルール](sono/rru.md)
+* [🖊 編集者](sono/bian-ji-zhe.md)
