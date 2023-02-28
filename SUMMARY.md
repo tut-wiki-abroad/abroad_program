@@ -2,8 +2,12 @@
 
 ## ☀ IMLEX
 
-* [Page 2](README.md)
+* [IMLEXとは](README.md)
 
 ## 🇫🇮 DDP
 
-* [Page 1](ddp/page-1.md)
+* [✈ 渡航](ddp/du-hang/README.md)
+  * [日本からフィンランド](ddp/du-hang/karafinrando.md)
+  * [ビザ](ddp/du-hang/biza.md)
+* [📍 旅行](ddp/lv-hang.md)
+* [🏫 UEF](ddp/uef.md)
