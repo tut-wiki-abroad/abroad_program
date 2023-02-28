@@ -6,7 +6,6 @@
 
 ## 🇫🇮 DDP
 
-* [🥗 食べ物](ddp/be.md)
 * [✈ 渡航](ddp/du-hang/README.md)
   * [🎒 持ち物](ddp/du-hang/chi.md)
   * [🇯🇵 日本からフィンランド](ddp/du-hang/karafinrando.md)
@@ -15,4 +14,10 @@
   * [🛩 航空会社](ddp/lv-hang/hang-kong-hui-she.md)
 * [🏫 UEF](ddp/uef/README.md)
   * [💾 Scriptyとは](ddp/uef/scriptytoha.md)
+* [🥗 食べ物](ddp/be.md)
+* [🥳 イベント](ddp/ibento/README.md)
+  * [🛎 SNS](ddp/ibento/sns.md)
+  * [🎃 ハロウィン](ddp/ibento/harowin.md)
+  * [🎅 クリスマス](ddp/ibento/kurisumasu.md)
+  * [🛷 そり](ddp/ibento/sori.md)
 * [Page 1](ddp/page-1.md)
