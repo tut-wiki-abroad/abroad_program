@@ -26,6 +26,7 @@
   * [👩💼 サービス](ddp/jiu-huo/sbisu.md)
   * [👫 コミュニティ](ddp/jiu-huo/komyuniti.md)
 * [💰 お金](ddp/o/README.md)
+  * [💱 節約](ddp/o/jie-yue.md)
   * [📱 Revolut](ddp/o/revolut.md)
   * [📱 Wise](ddp/o/wise.md)
   * [🥘 食費](ddp/o/shi-fei.md)
